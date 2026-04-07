@@ -67,4 +67,4 @@ The "RiskSense Score" is calculated using a multi-factor multiplicative formula:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Developed by the RiskSense Analytics Team*
+*Developed by the Raghav Khator*
