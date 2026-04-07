@@ -2,8 +2,6 @@
 
 RiskSense is an advanced, AI-augmented safety dashboard designed for real-time traffic hazard forecasting and environmental risk simulation. Built for precision and situational awareness, it integrates machine learning insights with live environmental data to provide actionable safety metrics for commuters and infrastructure managers.
 
-![RiskSense Dashboard](frontend/dist/assets/risksense_dashboard_verified_1775421429144.png) *(Note: Add your actual screenshot path here or use generated assets)*
-
 ## 🚀 Key Features
 
 - **Advanced RiskSense Engine**: A calibrated scoring model that dynamically adjusts for Road Type (Highway, Urban, Village), Weather, Traffic Density, and Visibility.
