@@ -61,8 +61,6 @@ The "RiskSense Score" is calculated using a multi-factor multiplicative formula:
 - **Speed Factor**: Exponential penalty (`Ratio^1.5`) when exceeding the speed limit by >110%.
 - **Visibility**: Severe hazard multipliers for visibility scores below 30%.
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Developed by the Raghav Khator*
